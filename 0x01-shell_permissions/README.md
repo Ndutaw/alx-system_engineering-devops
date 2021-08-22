@@ -6,3 +6,7 @@ creates an emptyfile
 adds execute permission to the owner of the file hello
 adds execute permission to the owner and the group owner,and read permission to other users to the file
 add execution permission to the owner,the group owner and the users
+sets the permission to the file>
+owner-no permissions
+group-no permissions
+other users-all permissions
