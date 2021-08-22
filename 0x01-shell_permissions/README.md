@@ -12,3 +12,4 @@ group-no permissions
 other users-all permissions
 script that sets the mode of the file hello to this -rwxr-x-wx
 script that sets the mode of the file hello same as olleh's mode
+adds executr permissions to all subdirectories of the current directory for the owner,the group owner and all other users
