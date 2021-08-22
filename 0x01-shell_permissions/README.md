@@ -11,3 +11,4 @@ owner-no permissions
 group-no permissions
 other users-all permissions
 script that sets the mode of the file hello to this -rwxr-x-wx
+script that sets the mode of the file hello same as olleh's mode
