@@ -7,3 +7,4 @@ display current directory contents >
 long format
 with user and group IDs displayed numerically
 and hidden file(starting with .) 
+creates a directory in another directory
