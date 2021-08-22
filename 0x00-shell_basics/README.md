@@ -16,3 +16,4 @@ deletes a directory in another
 lists all files even ones with names beginning with a period character which are normally hidden in the current directory and the parent of the working directory and the /boot directory in long format
 prints the type of the file named iamfile in the /tmp directory
 creating a symbolic link
+copies all the html files from current working directory to the parent of the working directory
