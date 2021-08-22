@@ -10,3 +10,4 @@ sets the permission to the file>
 owner-no permissions
 group-no permissions
 other users-all permissions
+script that sets the mode of the file hello to this -rwxr-x-wx
