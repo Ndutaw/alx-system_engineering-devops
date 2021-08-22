@@ -11,3 +11,4 @@ creates a directory in another directory
 moves a file from one directory to another
 delete a file from a directory
 Delete a directory in another directory
+chenges the working directory to the previous one
