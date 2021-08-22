@@ -12,3 +12,4 @@ moves a file from one directory to another
 delete a file from a directory
 Delete a directory in another directory
 chenges the working directory to the previous one
+deletes a directory in another
