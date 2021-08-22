@@ -8,3 +8,4 @@ long format
 with user and group IDs displayed numerically
 and hidden file(starting with .) 
 creates a directory in another directory
+moves a file from one directory to another
