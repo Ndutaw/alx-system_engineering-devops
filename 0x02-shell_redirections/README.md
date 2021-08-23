@@ -14,3 +14,4 @@ displays the 10 newest files in the current directory
 takes a list of words as inputs and prints only words that appear exactly once. one line one word and words shouls be sorted
 displays lines containing the pattern root from the file etc passwd
 display the number of lines that contain the pattern bin in the file etc passwd
+display lines containing the pattern root and 3 lines after them in the file etc passwd
