@@ -7,3 +7,4 @@ displays the first 10 lines of etc passwd
 displays the third line of the file iacta
 creates a file containing a text
 writes into the file ls-cwd-content the result of the command ls -la
+duplicates the last line of the file iacta
