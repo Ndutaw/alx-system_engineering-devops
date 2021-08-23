@@ -8,3 +8,5 @@ displays the third line of the file iacta
 creates a file containing a text
 writes into the file ls-cwd-content the result of the command ls -la
 duplicates the last line of the file iacta
+deletes all the regular files with a js extension that are present in the current directory and all its subfolders
+counts the number of directories and sub-directories in the current directory
