@@ -12,3 +12,4 @@ deletes all the regular files with a js extension that are present in the curren
 counts the number of directories and sub-directories in the current directory
 displays the 10 newest files in the current directory
 takes a list of words as inputs and prints only words that appear exactly once. one line one word and words shouls be sorted
+displays lines containing the pattern root from the file etc passwd
