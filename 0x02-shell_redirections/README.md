@@ -16,3 +16,4 @@ displays lines containing the pattern root from the file etc passwd
 display the number of lines that contain the pattern bin in the file etc passwd
 display lines containing the pattern root and 3 lines after them in the file etc passwd
 displays all the lines in the file etc/passwd that do not contain the pattern bin
+display all lines of the file etc/ssh/sshd_config starting with a letter including capital letters
