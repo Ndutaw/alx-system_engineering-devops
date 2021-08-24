@@ -18,3 +18,4 @@ display lines containing the pattern root and 3 lines after them in the file etc
 displays all the lines in the file etc/passwd that do not contain the pattern bin
 display all lines of the file etc/ssh/sshd_config starting with a letter including capital letters
 replace all characters A and c from input Z and e respectively
+removes all letters c and C from input
