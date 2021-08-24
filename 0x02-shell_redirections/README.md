@@ -19,3 +19,4 @@ displays all the lines in the file etc/passwd that do not contain the pattern bi
 display all lines of the file etc/ssh/sshd_config starting with a letter including capital letters
 replace all characters A and c from input Z and e respectively
 removes all letters c and C from input
+reverses its input
