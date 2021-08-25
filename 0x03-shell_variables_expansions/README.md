@@ -19,3 +19,4 @@ prints a number with two decimal places followed by a new line.the number will b
 converts a number from base 10 to base 16>
 the number in base 10 is stored in the environment variable DECIMAL
 the script should diplay the number in base 16 followed by a new line
+encodes and decodes text using the rot13 encryption.assume ASCII
