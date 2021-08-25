@@ -9,3 +9,4 @@ creates a new global variable name-HOLBERTON AND value-Betty
 prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE followed by a new line
 prints the result of POWER divided by DIVIDE followed by a new line and they are environment variables
 displays the result of BREATH to the power LOVE
+converts a number from base 2 to base 10,the script should display the number in base 10 followed by a new line
