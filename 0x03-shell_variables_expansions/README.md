@@ -10,3 +10,8 @@ prints the result of the addition of 128 with the value stored in the environmen
 prints the result of POWER divided by DIVIDE followed by a new line and they are environment variables
 displays the result of BREATH to the power LOVE
 converts a number from base 2 to base 10,the script should display the number in base 10 followed by a new line
+prints all possible combinations of two letters except oo>
+letters are lower cases from a to z
+one combination per line 
+the output should be alpha ordered starting with aa
+do not print oo
