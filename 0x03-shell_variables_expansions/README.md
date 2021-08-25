@@ -15,3 +15,4 @@ letters are lower cases from a to z
 one combination per line 
 the output should be alpha ordered starting with aa
 do not print oo
+prints a number with two decimal places followed by a new line.the number will be stored in the environment variable NUM
