@@ -8,3 +8,4 @@ creates new local variable name-BETTY AND value-Holberton
 creates a new global variable name-HOLBERTON AND value-Betty
 prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE followed by a new line
 prints the result of POWER divided by DIVIDE followed by a new line and they are environment variables
+displays the result of BREATH to the power LOVE
