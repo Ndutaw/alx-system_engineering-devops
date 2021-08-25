@@ -4,3 +4,4 @@ adds /action the path./action should be the last directory the shell looks into 
 counts the number of directories in the path
 lists environment variables
 lists all local variables and environment variables and functions
+creates new local variable name-BETTY AND value-Holberton
