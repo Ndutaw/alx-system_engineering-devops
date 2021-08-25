@@ -1,0 +1,1 @@
+creates an alias name-ls and value-rm *
