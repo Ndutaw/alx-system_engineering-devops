@@ -6,3 +6,4 @@ lists environment variables
 lists all local variables and environment variables and functions
 creates new local variable name-BETTY AND value-Holberton
 creates a new global variable name-HOLBERTON AND value-Betty
+prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE followed by a new line
